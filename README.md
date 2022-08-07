@@ -6,7 +6,7 @@
 
 ##Hello world!
 
-####Pretty exhaustive (and alphabetical 😮) list of who I am:
+###Pretty exhaustive (and alphabetical 😮) list of who I am:
 
 #####2D Vector graphics designer
 #####3D Artist
