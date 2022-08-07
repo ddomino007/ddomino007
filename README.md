@@ -1,6 +1,5 @@
 ### 23, Genderfluid, Gay, Fox
 ### Hi! :3
-### Hello world!
 #### Pretty exhaustive (and alphabetical 😮) list of who I am:
 * 2D Vector graphics designer
 * 3D Artist
