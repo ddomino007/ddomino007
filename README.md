@@ -6,20 +6,20 @@
 
 ##Hello world!
 
-###Pretty exhaustive (and alphabetical 😮) list of who I am:
+##Pretty exhaustive (and alphabetical 😮) list of who I am:
 
-#####2D Vector graphics designer
-#####3D Artist
-#####Dev
-#####Game modder
-#####Gamedev
-#####Musician
-#####Photographer
-#####Streamer
-#####Sysadmin
-#####Video Editor
-#####Wife
-#####YouTuber
+2D Vector graphics designer
+3D Artist
+Dev
+Game modder
+Gamedev
+Musician
+Photographer
+Streamer
+Sysadmin
+Video Editor
+Wife
+YouTuber
 
 ###I just love creating stuff 😅
 
