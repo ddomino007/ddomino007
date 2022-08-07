@@ -1,16 +1,23 @@
-### Hi there 👋
+![](https://lh3.googleusercontent.com/yzGPmPFXq6QQa6nzc12HEsXcfPRP2EpRHBWrK95dQr0FlT8QgxmI_qETAKvv3UnIk7T0yLUoI6a3dGnx5SRifH8=w16383)
 
-<!--
-**ddomino007/ddomino007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Benji Silver
 
-Here are some ideas to get you started:
+### 23, Genderfluid, Gay, Fox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Some cool badges:
+
+[![Watch me live on Twich](https://img.shields.io/twitch/status/benjithatfoxguy?style=social)](https://twitch.tv/benjithatfoxguy)
+
+[![Subscribe to my main YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCkh2LBdoBAIcRM17te7sN_w?label=Main%20Channel%20%7C%20Subscribers&style=social)](https://youtube.com/c/benjithatfoxguy?sub_confirmation=1)
+
+[![Subscribe to my music YouTube channel](https://img.shields.io/youtube/channel/subscribers/UC60KFh04_GnF_t1aBlDgrVQ?label=Music%20Channel%20%7C%20Subscribers&style=social)](https://www.youtube.com/channel/UC60KFh04_GnF_t1aBlDgrVQ?sub_confirmation=1)
+
+[![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DBenjiThatFoxGuy%26type%3Dpatrons&style=social)](https://patreon.com/BenjiThatFoxGuy)
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/benjithebluefox?label=Followers&style=social)](https://twitter.com/benjithebluefox)
+
+[![GitHub followers](https://img.shields.io/github/followers/ddomino007?style=social)](https://github.com/ddomino007)
+
+![GitHub Sponsors](https://img.shields.io/github/sponsors/ddomino007?logo=github&style=social)
+
+[![Discord](https://img.shields.io/discord/959465914024218705?label=Community&logo=discord&style=social)](https://link.benjifox.gay/discord)
