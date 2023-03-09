@@ -22,3 +22,7 @@
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DBenjiThatFoxGuy%26type%3Dpatrons&style=social)](https://patreon.com/BenjiThatFoxGuy) ![GitHub Sponsors](https://img.shields.io/github/sponsors/ddomino007?logo=github&style=social)
 
 [![Discord](https://img.shields.io/discord/959465914024218705?label=Community&logo=discord&style=social)](https://link.benjifox.gay/discord) [![Watch me live on Twich](https://img.shields.io/twitch/status/benjithatfoxguy?style=social)](https://twitch.tv/benjithatfoxguy)
+
+#### Mastodon Stuffs:
+I'm on:
+<a rel="me" href="https://bark.lgbt/@BenjiThatFoxGuy">bark.lgbt</a>
