@@ -25,4 +25,5 @@
 
 #### Mastodon Stuffs:
 I'm on:
-<a rel="me" href="https://bark.lgbt/@BenjiThatFoxGuy">bark.lgbt</a>
+* <a rel="me" href="https://bark.lgbt/@BenjiThatFoxGuy">bark.lgbt</a>
+* <a rel="me" href="https://jackelope.gay/@BenjiThatFoxGuy">jackelope.gay</a>
