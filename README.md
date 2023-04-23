@@ -17,7 +17,7 @@
 #### Some cool badges:
 [![Subscribe to my main YouTube channel](https://img.shields.io/youtube/channel/subscribers/UCkh2LBdoBAIcRM17te7sN_w?label=Subscribe&style=social)](https://youtube.com/c/benjithatfoxguy?sub_confirmation=1) [![Subscribe to my music YouTube channel](https://img.shields.io/youtube/channel/subscribers/UC60KFh04_GnF_t1aBlDgrVQ?label=Subscribe&logo=youtubemusic&style=social)](https://www.youtube.com/channel/UC60KFh04_GnF_t1aBlDgrVQ?sub_confirmation=1)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/benjithebluefox?label=Followers&style=social)](https://twitter.com/benjithebluefox) [![GitHub followers](https://img.shields.io/github/followers/ddomino007?style=social)](https://github.com/ddomino007)
+[![GitHub followers](https://img.shields.io/github/followers/ddomino007?style=social)](https://github.com/ddomino007)
 
 [![Support me on Patreon](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Fshieldsio-patreon.vercel.app%2Fapi%3Fusername%3DBenjiThatFoxGuy%26type%3Dpatrons&style=social)](https://patreon.com/BenjiThatFoxGuy) ![GitHub Sponsors](https://img.shields.io/github/sponsors/ddomino007?logo=github&style=social)
 
@@ -25,5 +25,5 @@
 
 #### Mastodon Stuffs:
 I'm on:
-* <a rel="me" href="https://mastodon.benjifox.gay">My own single-user mode instance - @the@benjifox.gay [main account]</a>
+* <a rel="me" href="https://mastodon.benjifox.gay">My own single-user mode instance [main account]</a>
 * <a rel="me" href="https://vulpine.club/@benji">vulpine.club [backup account]</a>
