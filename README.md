@@ -25,5 +25,5 @@
 
 #### Mastodon Stuffs:
 I'm on:
-* <a rel="me" href="https://bark.lgbt/@BenjiThatFoxGuy">bark.lgbt</a>
-* <a rel="me" href="https://jackelope.gay/@BenjiThatFoxGuy">jackelope.gay</a>
+* <a rel="me" href="https://mastodon.benjifox.gay">My own single-user mode instance - @the@benjifox.gay [main account]</a>
+* <a rel="me" href="https://vulpine.club/@benji">vulpine.club [backup account]</a>
