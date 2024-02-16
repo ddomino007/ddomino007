@@ -27,6 +27,6 @@
 [![Discord](https://img.shields.io/discord/959465914024218705?label=Community&logo=discord&style=social)](https://link.benjifox.gay/discord) [![Watch me live on Twich](https://img.shields.io/twitch/status/benjithatfoxguy?style=social)](https://twitch.tv/benjithatfoxguy)
 
 #### Mastodon Stuffs:
-~~I'm on:
-* <a rel="me" href="https://mastodon.benjifox.gay">My own single-user mode instance [main account]</a>
-* <a rel="me" href="https://vulpine.club/@benji">vulpine.club [backup account]</a>~~
+~~I'm on:~~
+~~* <a rel="me" href="https://mastodon.benjifox.gay">My own single-user mode instance [main account]</a>~~
+~~* <a rel="me" href="https://vulpine.club/@benji">vulpine.club [backup account]</a>~~
