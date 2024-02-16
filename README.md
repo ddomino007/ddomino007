@@ -32,5 +32,4 @@
 ~~* <a rel="me" href="https://vulpine.club/@benji">vulpine.club [backup account]</a>~~
 
 Vulpine.club has closed down and the server my Mastodon instance was hosted on has suffered a data loss.
-
 I'm not on Mastodon ATM, I plan to set things up again - in the meantime you can catch me on <a rel="me" href="https://link.benjifox.gay/bsky"> Bluesky</a>
