@@ -1,7 +1,7 @@
 ### Genderfluid, Gay, Fox
 ### She/her
 ### Hi! :3
-### My status:
+### My status (pulled from Discord, powered by Lanyard :3):
 [![Discord Presence](https://lanyard.cnrad.dev/api/263241553072488448?bg=0d1117)](https://discord.benjifox.gay)
 #### Pretty exhaustive (and alphabetical 😮) list of who I am:
 * 2D Vector graphics designer
