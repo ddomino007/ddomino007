@@ -1,5 +1,5 @@
 ### Genderfluid, Gay, Fox
-### She/her
+### She/he
 ### Hi! :3
 ### My status (pulled from Discord, powered by Lanyard :3) ⬇️
 [![Discord Presence](https://lanyard.cnrad.dev/api/263241553072488448?bg=0d1117)](https://discord.benjifox.gay)
